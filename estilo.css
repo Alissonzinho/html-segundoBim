@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: none;  
+}
+
+nav{
+    display: inline-block;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    padding: 12px;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    border: 1px solid black;
+}
+
+a:hover{
+    color: white;
+}
